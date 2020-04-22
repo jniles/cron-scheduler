@@ -1,5 +1,11 @@
-var test = require('tape')
-var sandbox = require('sinon-in-sandbox')
+var test = require('tape');
+
+var sandbox = function (fn) {
+  var box = require('sinon').createSandbox();
+  try { fn(box) }
+  finally { box.restore() }
+};
+
 
 test('cron', function (t) {
   sandbox(function (sinon, clock) {
