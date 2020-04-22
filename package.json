@@ -4,7 +4,7 @@
   "version": "1.2.1",
   "author": "Rico Sta. Cruz <rico@ricostacruz.com>",
   "bugs": {
-    "url": "https://github.com/rstacruz/cron-scheduler/issues"
+    "url": "https://github.com/jniles/cron-scheduler/issues"
   },
   "dependencies": {
     "any-promise": "^1.3.0",
@@ -14,11 +14,10 @@
     "pretty-ms": "^6.0.1"
   },
   "devDependencies": {
-    "sinon": "^1.17.7",
-    "sinon-in-sandbox": "1.0.0",
+    "sinon": "^9.0.2",
     "tape": "^4.11.0"
   },
-  "homepage": "https://github.com/rstacruz/cron-scheduler#readme",
+  "homepage": "https://github.com/jniles/cron-scheduler#readme",
   "keywords": [
     "cron",
     "cronjob",
@@ -29,7 +28,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rstacruz/cron-scheduler.git"
+    "url": "git+https://github.com/jniles/cron-scheduler.git"
   },
   "scripts": {
     "test": "node test.js"
