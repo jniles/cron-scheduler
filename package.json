@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "sinon": "^9.0.2",
-    "tape": "^4.11.0"
+    "tape": "^5.0.0"
   },
   "homepage": "https://github.com/jniles/cron-scheduler#readme",
   "keywords": [
