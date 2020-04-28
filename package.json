@@ -11,7 +11,7 @@
     "cron-converter": "^1.0.0",
     "long-timeout": "^0.1.1",
     "moment-timezone": "^0.5.26",
-    "pretty-ms": "^6.0.1"
+    "pretty-ms": "^7.0.0"
   },
   "devDependencies": {
     "sinon": "^9.0.2",
