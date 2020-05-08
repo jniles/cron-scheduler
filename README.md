@@ -1,6 +1,6 @@
 # cron-scheduler
 
-_This is a mirror of [rstacruz/cron-scheduler](https://github.com/rstacruz/cron-scheduler) to get security updates in_
+_This is a fork of [rstacruz/cron-scheduler](https://github.com/rstacruz/cron-scheduler). Props to them for their work. _
 
 > Runs jobs in periodic intervals
 
