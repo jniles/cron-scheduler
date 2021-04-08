@@ -9,7 +9,7 @@ pipeline {
     stage('Testing') {
       steps {
         echo 'Starting tests...'
-        sh 'yarn build'
+        sh 'yarn'
         sh 'yarn test'
         echo 'Done!'
       }
