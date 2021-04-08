@@ -1,5 +1,5 @@
 status = [
-  "continuous-integration/travis-ci/push"
+  "continuous-integration/jenkins/branch"
 ]
 
 timeout_sec = 14400
