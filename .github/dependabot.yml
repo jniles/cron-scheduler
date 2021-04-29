@@ -1,0 +1,31 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: eslint
+    versions:
+    - 7.18.0
+    - 7.19.0
+    - 7.20.0
+    - 7.21.0
+    - 7.22.0
+    - 7.24.0
+  - dependency-name: release-it
+    versions:
+    - 14.3.0
+    - 14.4.0
+    - 14.4.1
+    - 14.5.0
+  - dependency-name: tape
+    versions:
+    - 5.1.1
+    - 5.2.0
+    - 5.2.1
+  - dependency-name: sinon
+    versions:
+    - 9.2.4
