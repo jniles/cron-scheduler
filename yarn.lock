@@ -688,9 +688,9 @@ cosmiconfig@7.0.0:
     yaml "^1.10.0"
 
 cron-converter@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/cron-converter/-/cron-converter-1.0.0.tgz#83140dea518e24df479cb30b162bf367b5cf92ee"
-  integrity sha512-org2ua/GhK5YdXxAyg0dP5Mt9ehCYAxxt+arIPpXY6mW74FRzL23GKcJ7GRXbD377d3M3XCitEfcqMu1E1joqg==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/cron-converter/-/cron-converter-1.0.1.tgz#a7a13f49d69893523feef3c511280aab50f5e403"
+  integrity sha512-2GpOtd4lGs5kOspHprRUbChyDXmA59cgqcVvIqZgqTSSOJ1tMW9rKoOEGyc+UXYZDUWyrPtf7dvrYyFCjmo/QA==
   dependencies:
     moment-timezone "~0.5"
     sprintf-js "~1"
