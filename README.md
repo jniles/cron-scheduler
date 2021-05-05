@@ -1,6 +1,6 @@
 # cron-scheduler
 
-_This is a fork of [rstacruz/cron-scheduler](https://github.com/rstacruz/cron-scheduler). Props to them for their work. _
+_This is a fork of [rstacruz/cron-scheduler](https://github.com/rstacruz/cron-scheduler). Props to them for their work._
 
 > Runs jobs in periodic intervals
 
